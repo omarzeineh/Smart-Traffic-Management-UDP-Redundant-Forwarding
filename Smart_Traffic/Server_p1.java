@@ -1,4 +1,4 @@
-package smarttraffic.q1;
+package Smart_Traffic;
 import java.net.*;
 import java.util.*;
 import java.io.*;
