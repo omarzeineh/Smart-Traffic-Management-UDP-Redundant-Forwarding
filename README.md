@@ -100,8 +100,4 @@ Your actual printouts may differ depending on how the classes format their logs.
 └── README.md
 ```
 
----
 
-## Attribution
-
-This implementation fulfills Programming Assignment 1 – Question 1 requirements: UDP clients (sensors), redundant servers, and a UDP forwarder that replicates packets for fault tolerance, redundancy, and high availability.
