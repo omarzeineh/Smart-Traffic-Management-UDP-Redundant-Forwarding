@@ -1,4 +1,4 @@
-package smarttraffic.q1;
+package Smart_Traffic;
 public class Sensor {
     private int ID;
     private int vCount;
